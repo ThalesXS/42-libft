@@ -4,7 +4,7 @@
 
 <h1 align="center">libft</h1>
 
-<a href="en.subject.pdf">Subject</a>
+[Subject](srcs/en.subject.pdf)
 
 &nbsp; This is the very first project from the 42 School's curriculum. It focus on how the standard functions of the C language works, by coding these functions from scratch and creating our very first library, we are able to better understand them.
 
