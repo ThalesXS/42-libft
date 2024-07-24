@@ -6,8 +6,8 @@
 
 &nbsp; This is the very first project from the 42 School's curriculum. It focus on how the standard functions of the C language works, by coding these functions from scratch and creating our very first library, we are able to better understand them.
 
->[!IMPORTANT] Attention
-> &nbsp; Libft is a very important project, since this library will be used in future 42 school assignments. If you are a 42 student, read the guides and use the tools you learned throughout the piscine proccess.
+> [!IMPORTANT]
+> Libft is a very important project, since this library will be used in future 42 school assignments. If you are a 42 student, read the guides and use the tools you learned throughout the piscine proccess.
 
 ## Usage
 ``make`` to compile mandatory functions.
